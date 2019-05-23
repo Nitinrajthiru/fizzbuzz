@@ -1,6 +1,5 @@
 nums = [3, 5]
 max = 100
-
 result = 0
 for num in nums:
     for i in range(1,max):
