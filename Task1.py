@@ -12,6 +12,9 @@ for i in range(page)
             if j== 'O' or j== 'o':
                      h= '0'
                      fout.write(h)
+            elif j== 'A' or j== 'a'
+                     h= '4'
+                     fout.write(h)
             elif j== 'E' or j== 'e'
                      h= '3'
                      fout.write(h)
